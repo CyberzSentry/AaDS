@@ -7,3 +7,6 @@ you need to modify main file accordingly. Usualy by changing the name of the met
 and figure out what method you want to use). 
 
 Data is usually supplied by the files in the Sources folder.
+
+# Enviroment
+This repo was created in PyCharm and should work in it without problems (maybe).
